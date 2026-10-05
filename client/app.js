@@ -1,4 +1,4 @@
-const API = 'http://localhost:5003/api';
+const API = 'https://student-task-manager-api-h2tn.onrender.com/api';
 
 // ══════════════════════════════════════════
 //  AUTH HELPERS
